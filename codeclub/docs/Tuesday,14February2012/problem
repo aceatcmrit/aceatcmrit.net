@@ -1,0 +1,9 @@
+
+C/C++ | gcc | linux
+================
+//lost the original problem file...
+1.To finish day1's work
+2.To make an Attendance app
+	a.Create a file with name "CCCAt-[cur_date].txt"
+	b.Accept USNs from the terminal [Esc to stop accepting]
+	c.Store all USNs each in a new line in that file

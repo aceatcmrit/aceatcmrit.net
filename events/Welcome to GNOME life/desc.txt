@@ -1,0 +1,85 @@
+<P STYLE="margin-bottom: 0cm"><B>Introduction to GNOME- Abhinav
+B,Abhinav C,Mohan Kumar(A^2M)
+</B></P>
+<P STYLE="margin-bottom: 0cm"><B>[05.04.11–07.04.11]
+</B></P>
+<P STYLE="margin-bottom: 0cm"><B>Objectives:</B> 
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm">Our ACE member
+speakers, Abhinav C,Abhinav B and Mohan Kumar
+ compiled all the
+necessary features of GNOME 3 for the benefit of the
+ students and
+presented it at the GNOME 3 release party.
+</P>
+<P STYLE="margin-bottom: 0cm"><B>Event Description:</B></P>
+<P STYLE="margin-bottom: 0cm">The main points are highlighted below:
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm">                 
+What’s new about GNOME 3?
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm">	       1. Elegant
+design
+</P>
+<P ALIGN=LEFT STYLE="margin-left: 1.25cm; margin-bottom: 0cm">       
+           2. Activities overview
+</P>
+<P ALIGN=LEFT STYLE="margin-left: 1.25cm; margin-bottom: 0cm">       
+           3. Application based management
+</P>
+<P ALIGN=LEFT STYLE="margin-left: 1.25cm; margin-bottom: 0cm">       
+           4. Notifications
+</P>
+<P ALIGN=LEFT STYLE="margin-left: 1.25cm; margin-bottom: 0cm">       
+           5. Integrated messaging
+</P>
+<P ALIGN=LEFT STYLE="margin-left: 1.25cm; margin-bottom: 0cm">       
+           6. Windows grouping
+</P>
+<P ALIGN=LEFT STYLE="margin-left: 1.25cm; margin-bottom: 0cm">       
+           7. Desktop search
+</P>
+<P STYLE="margin-bottom: 0cm"><B>More features</B>
+:</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm">           Topic
+oriented help and intuitive system settings.
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm">          
+Features that would improve the experience of a user.
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm">         	1. UNDER
+THE HOOD ( fast powerful platform suitable for
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm">                 
+several languages such as C,C++)
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm">	2. Easy teaming
+with CSS.
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm">    	3. Symbolic
+icons.
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm">     	Most
+important attribute is the FALL BACK mode(performance integrated with
+hardware).
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><B>Philosophy behind GNOME
+</B></P>
+<P STYLE="margin-left: 2.5cm; margin-bottom: 0cm">1. Usability.
+</P>
+<P STYLE="margin-left: 2.5cm; margin-bottom: 0cm">2. End user
+experience.
+</P>
+<P STYLE="margin-left: 2.5cm; margin-bottom: 0cm">3. Freedom.
+</P>
+<P STYLE="margin-left: 2.5cm; margin-bottom: 0cm">Accessability of
+GNOME by everyone.
+</P>
+<P STYLE="margin-left: 2.5cm; margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><B>GNOME is people!
+</B></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><B>To contribute visit :
+<A target="_blank" HREF="http://live.gnome.org/gnomelive">http://live.gnome.org/gnomelive</A></B></P>

@@ -1,0 +1,37 @@
+<P STYLE="margin-bottom: 0cm"><B>Importance of FOSS- Mr.Naveen
+Mudunuru (FSMK)
+</B></P>
+<P STYLE="margin-bottom: 0cm"><B>[28.04.11]
+</B></P>
+<P STYLE="margin-bottom: 0cm"><B>Objectives:</B> 
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm">A guest lecture
+organized by ACE, was presented by FSMK member,
+ Mr. Naveen Mudunuru
+on the understanding of FOSS PHILOSOPHY to
+ the students of 4th
+semester, CSE at CMRIT.
+</P>
+<P STYLE="margin-bottom: 0cm"><B>Event Description:</B></P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm; font-weight: normal">
+Mr.Naveen addressed issues and brought to light the drawbacks
+ within
+proprietary soft wares that can be addressed using the kernel
+support provided in GNU/Linux based operating systems.
+</P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm; font-weight: normal">
+The seminar could be termed as a key to mutual growth as CMRIT ACE
+GLUG, an initiative of the Computer Science department at CMRIT is
+working towards improving the knowledge of the students.
+</P>
+<P STYLE="margin-bottom: 0cm"><B>Event Results:</B></P>
+<P STYLE="margin-left: 1.25cm; margin-bottom: 0cm"><SPAN STYLE="font-weight: normal">The
+Students were given a proper opportunity to understand the
+ necessity
+and importance of Free and Open Source Software (FOSS).
+ The various
+issues that proprietary software does not address.
+</SPAN></P>
+<P STYLE="margin-bottom: 0cm; font-weight: normal">	Visit
+<A target="_blank" HREF="http://fsmk.org/"><B>http://fsmk.org/</B></A> and become a
+memeber today!</P>

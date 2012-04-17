@@ -1,0 +1,50 @@
+<P STYLE="margin-bottom: 0cm"><B>Objectives:</B>To
+give the introduction to the students about the free source software
+GIMP and its use in image editing. To make them learn image editing,
+image designing, designing posters, banners and to motivate them to
+bring out their creative skills with the knowledge learned.</FONT></FONT></P>
+<P STYLE="margin-left: 1.27cm; text-indent: -1.27cm; margin-bottom: 0cm">
+<FONT SIZE=3><B>Event Description</B></FONT><FONT SIZE=3><B>:	The
+following points were covered</B></FONT></P>
+
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm">                  
+     -     The use of GIMP in brief</P>
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm">                  
+     -     Importing and working on images</P>
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm">                  
+     -     The use of important tools 
+</P>
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm">                  
+     -     Creating an image from scratch using GIMP</P>
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm">                  
+     -     Understanding and working with layers</P>
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm">                  
+     -     A brief introduction to image file types</P>
+
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm">                  
+     -     Usage of text and various font styles</P>
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm">                  
+     -     The use of shadows</P>
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm">                  
+     -     Tiling of an image</P>
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm">                  
+     -     Recreating an image</P>
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm">                  
+      -  Basic animation (GIF file type)</P>
+<P STYLE="margin-left: 1.27cm; margin-bottom: 0cm"><BR>
+</P>
+
+<P STYLE="margin-left: 3.81cm; text-indent: -3.81cm; margin-bottom: 0cm">
+<FONT SIZE=3><B>Event Results:</B></FONT><FONT SIZE=3>	The two day
+hands on workshop went very well as the students got the opportunity
+to sit and actually work out the things rather than listening to the
+seminars. It was lot more interactive with Srihari approaching 
+individual table regularly throughout the seminar. The results were
+positive with the students demanding more of such interactive
+sessions in future. </FONT>
+</P>
+<DIV TYPE=FOOTER>
+	<P STYLE="margin-bottom: 0cm; line-height: 100%"><BR>
+	</P>
+</DIV>
+

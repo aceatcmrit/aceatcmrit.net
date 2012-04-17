@@ -1,0 +1,17 @@
+
+C | gcc | linux
+================
+Read from a text file, encrypt the contents and write to a new file.
+
+Steps
+------
+1.Create and open 2 files
+2.Read from input file, character wise
+3.Change or morph the character
+4.Write to output file
+
+Hints
+------
+Search based on file operations in C
+
+-

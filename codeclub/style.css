@@ -1,0 +1,68 @@
+body {
+	font-family: "Trebuchet MS", Helvetica, Sans-Serif;
+	font-size: 16px;
+	background:url('./img/progLanguages.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#jQ-menu ul {
+	list-style-type: none;
+}
+
+#jQ-menu a, #jQ-menu li {
+	color: gray;
+	text-decoration: none;
+	padding-bottom: 3px;
+}
+
+#jQ-menu ul {
+	padding-left: 15px;
+}
+
+div.dir-tree{
+	position:absolute;
+	left:5%;
+	top:15%;
+	height:80%;
+	width:20%;
+	border:3px solid;
+	background-color: #FFF;
+	opacity: 0.6;
+	border-radius:25px;
+	-moz-border-radius:25px;
+}
+
+iframe.content-area{
+	position:absolute;
+	left:30%;
+	top:15%;
+	height:80%;
+	width:65%;
+	background-color: #FFF;
+	opacity: 0.6;
+	border:3px solid;
+	border-radius:25px;
+	-moz-border-radius:25px;
+}
+
+div.title-area{
+	display:table-cell;
+	vertical-align:middle;
+	position:absolute;
+	left:5%;
+	top:2%;
+	height:10%;
+	width:90%;
+	border:3px solid;
+}
+
+#upload-form{
+	position:absolute;
+	left:10%;
+	top:10%;
+	border:2px solid;
+	padding:20px;
+}

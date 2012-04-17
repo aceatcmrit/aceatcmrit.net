@@ -1,0 +1,98 @@
+
+*** Logfile started
+*** on Mon Feb 13 13:42:50 2012
+
+[Monday 13 February 2012] [13:42:50] Join	You have joined the channel #cmrcodeclub (~srihari@124.124.93.210).
+[Monday 13 February 2012] [13:42:50] Mode	Channel modes: no messages from outside, secret
+[Monday 13 February 2012] [13:42:50] Created	This channel was created on 13/02/2012 13:33.
+[Monday 13 February 2012] [13:42:54] <srihari>	hey
+[Monday 13 February 2012] [13:43:08] Nick	csstaff is now known as zeeshan.
+[Monday 13 February 2012] [13:44:05] <harsh>	hi
+[Monday 13 February 2012] [13:46:29] <srihari>	hey today's work is this -http://write.fm/cmrcodeclub
+[Monday 13 February 2012] [13:47:04] <zeeshan>	what doing??
+[Monday 13 February 2012] [13:47:18] <harsh>	nothin....... 
+[Monday 13 February 2012] [13:48:30] Nick	zeeshan is now known as Akhil_.
+[Monday 13 February 2012] [13:51:54] Join	anku has joined this channel (~student@124.124.93.210).
+[Monday 13 February 2012] [13:52:03] <anku>	im here
+[Monday 13 February 2012] [13:52:17] <srihari>	hey today's work is this -http://write.fm/cmrcodeclub
+[Monday 13 February 2012] [13:56:04] Join	vidya has joined this channel (~vidya@124.124.93.210).
+[Monday 13 February 2012] [13:56:20] <anku>	hi
+[Monday 13 February 2012] [13:56:23] Join	impana has joined this channel (~student@124.124.93.210).
+[Monday 13 February 2012] [13:56:33] <impana>	hi im here
+[Monday 13 February 2012] [13:56:44] <impana>	srihari, im on line now
+[Monday 13 February 2012] [13:56:48] <impana>	give me the task
+[Monday 13 February 2012] [13:56:57] <srihari>	hey today's work is this -http://write.fm/cmrcodeclub
+[Monday 13 February 2012] [13:58:21] <impana>	anku
+[Monday 13 February 2012] [13:58:39] <anku>	harsh: what we have to do now??
+[Monday 13 February 2012] [13:59:30] <vidya>	http://write.fm/cmrcodeclub
+[Monday 13 February 2012] [13:59:37] <vidya>	check this link out
+[Monday 13 February 2012] [13:59:39] <vidya>	for work
+[Monday 13 February 2012] [13:59:46] <srihari>	steps and hints added
+[Monday 13 February 2012] [14:00:22] 482	srihari #cmrcodeclub You're not a channel operator
+[Monday 13 February 2012] [14:00:36] Mode	harsh gives channel operator privileges to you.
+[Monday 13 February 2012] [14:00:48] Mode	You take channel operator privileges from harsh.
+[Monday 13 February 2012] [14:01:45] Topic	You set the channel topic to "http://write.fm/cmrcodeclub".
+[Monday 13 February 2012] [14:01:49] <harsh>	anku:just copy that link an paste  it in browser
+[Monday 13 February 2012] [14:02:11] <srihari>	will not keep posting the link now...
+[Monday 13 February 2012] [14:02:21] <srihari>	its on the room title...
+[Monday 13 February 2012] [14:02:34] <impana>	k
+[Monday 13 February 2012] [14:04:03] <Akhil_>	@impana: we must first create a file... then search on net how to read the file through c programming... 
+[Monday 13 February 2012] [14:04:13] <harsh>	http://www.google.com/search?client=ubuntu&channel=fs&q=c+read+a+file&ie=utf-8&oe=utf-8
+[Monday 13 February 2012] [14:07:41] <Akhil_>	if u want help on how to read & write into a file... try the following link...
+[Monday 13 February 2012] [14:07:44] <Akhil_>	http://www.go4expert.com/forums/showthread.php?t=2977
+[Monday 13 February 2012] [14:09:23] 472	srihari h is an unknown mode char to me
+[Monday 13 February 2012] [14:09:54] 472	srihari h is an unknown mode char to me
+[Monday 13 February 2012] [14:13:55] <srihari>	if anyone's too frustrated to carry on, shout out loudly and we'll come to help :p
+[Monday 13 February 2012] [14:20:33] <anku>	we r gtng sm segmentation fault.....
+[Monday 13 February 2012] [14:22:07] <anku>	akhil: we r gtng sm segmentation fault.....
+[Monday 13 February 2012] [14:22:49] <srihari>	reading the error sometime helps...
+[Monday 13 February 2012] [14:25:02] <Akhil_>	@anku: just google the error
+[Monday 13 February 2012] [14:25:55] <impana>	can u just tel us n brief wat v r supposed to do...not getting.......:(
+[Monday 13 February 2012] [14:26:12] <Akhil_>	what's the default extension by which a file gets saved in linux??
+[Monday 13 February 2012] [14:26:36] <Akhil_>	@impana: first create a file...
+[Monday 13 February 2012] [14:26:46] <vidya>	akhil: i guess it is txt
+[Monday 13 February 2012] [14:26:54] <vidya>	just try 
+[Monday 13 February 2012] [14:27:11] <Akhil_>	then check in google how to read that file through a c program..
+[Monday 13 February 2012] [14:27:50] <vidya>	yep
+[Monday 13 February 2012] [14:28:00] <Akhil_>	@vidya: but i can't open file with that extension... shd i resave the file with that extension??
+[Monday 13 February 2012] [14:28:35] <vidya>	file extension will not matter when u are trying to read or write into a file ...
+[Monday 13 February 2012] [14:28:49] <vidya>	i guess u should have a better look at ur code..
+[Monday 13 February 2012] [14:29:36] <Akhil_>	@vidya: i tried the same with a c file... it worked... but with this it isn't working...
+[Monday 13 February 2012] [14:29:38] <impana>	srihari@:we need ur help
+[Monday 13 February 2012] [14:30:58] <vidya>	upload ur source code in write.fm
+[Monday 13 February 2012] [14:31:10] <srihari>	impana: did you go through tghe link that Akhil_ posted?
+[Monday 13 February 2012] [14:32:27] <Akhil_>	@vidya: i uploaded it..
+[Monday 13 February 2012] [14:34:07] <vidya>	gimme the link.....
+[Monday 13 February 2012] [14:35:22] <Akhil_>	@vidya: http://c3420758.r58.cf0.rackcdn.com/check1.c
+[Monday 13 February 2012] [14:36:56] <vidya>	Akhil_: ok i just saw the code.... what is the error yo getting....
+[Monday 13 February 2012] [14:37:47] <Akhil_>	@vidya: its not opening the file...
+[Monday 13 February 2012] [14:38:05] <Akhil_>	the output is cannot open file
+[Monday 13 February 2012] [14:38:49] <srihari>	Akhil_: maybe file doesnt exist?
+[Monday 13 February 2012] [14:38:59] <srihari>	Akhil_: try creating it...
+[Monday 13 February 2012] [14:42:09] <Akhil_>	@srihari: i just didn't save it with .txt extension...
+[Monday 13 February 2012] [14:42:13] <harsh>	its workin.........!!!!!
+[Monday 13 February 2012] [14:42:29] <srihari>	harsh: cool
+[Monday 13 February 2012] [14:42:44] <srihari>	put up the code somehwre... pastie or write.fm...
+[Monday 13 February 2012] [14:43:29] <Akhil_>	if anyone needs the code to just open the file... try this link...
+[Monday 13 February 2012] [14:43:39] <Akhil_>	http://c3420758.r58.cf0.rackcdn.com/check1.c
+[Monday 13 February 2012] [14:47:20] <srihari>	Akhil_: ha... good
+[Monday 13 February 2012] [14:47:32] <srihari>	all: builld code from there...
+[Monday 13 February 2012] [14:48:58] <vidya>	hi every one hw is coding working
+[Monday 13 February 2012] [14:51:02] <Akhil_>	@vidya: going on... just trying to encrypt it...
+[Monday 13 February 2012] [14:52:07] <vidya>	nice 
+[Monday 13 February 2012] [15:26:04] Quit	impana has left this server (*.net *.split).
+[Monday 13 February 2012] [15:26:05] Quit	vidya has left this server (*.net *.split).
+[Monday 13 February 2012] [15:29:32] Join	impana has joined this channel (~student@124.124.93.210).
+[Monday 13 February 2012] [15:29:33] Join	vidya has joined this channel (~vidya@124.124.93.210).
+[Monday 13 February 2012] [15:42:29] Quit	anku has left this server (Ping timeout: 245 seconds).
+
+*** Logfile started
+*** on Mon Feb 13 22:31:06 2012
+
+[Monday 13 February 2012] [22:31:06] Join	You have joined the channel #cmrcodeclub (~srihari@59.92.197.29).
+[Monday 13 February 2012] [22:31:06] Mode	barjavel.freenode.net sets the channel mode to 'no messages from outside'.
+[Monday 13 February 2012] [22:31:06] Mode	barjavel.freenode.net sets the channel mode to 'secret'.
+[Monday 13 February 2012] [22:31:06] Mode	Channel modes: no messages from outside, secret
+[Monday 13 February 2012] [22:31:06] Created	This channel was created on 13/02/2012 22:31.
+[Monday 13 February 2012] [22:32:31] Mode	You switch on 'topic protection'.
+[Monday 13 February 2012] [22:32:33] Mode	You set the channel limit to 30 nicks.
