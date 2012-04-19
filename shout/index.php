@@ -15,15 +15,21 @@
 
      	   $ip=ip_addr();
 			 	 $sql ="SELECT username FROM $tbl_name WHERE ipadd='$ip'";
-					$result = mysql_query($sql);
-					$count = mysql_num_rows($result);
-					  // If result matched $myusername and $mypassword, table row must be 1 row
+				 $result = mysql_query($sql);
+				 $count = mysql_num_rows($result);
 					  if($count==1){
-              echo $result;
-              $curUsername = $result;
+              $row = mysql_fetch_row($result);
+              $curUsername = $row[0];
             }						   
         $peopleFile = "./data/people";
     ?>
+  	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../css/style.css" type="text/css"
+		media="screen" />
+		<!--[if IE]>
+		<link href="css/ie.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<title>ACE-Association of Computer Engineers, CSE, CMRIT</title>
     <script type="text/javascript">
         window.setInterval(function(){
           var fr = document.getElementById('iFrame')
@@ -60,11 +66,10 @@
         overflow:auto;
       }
       #shout{
-        position:absolute;
-        left:25%;
-        top:6%;
+        position:relative;
+        left:15%;
         width:50%;
-        height:60%;
+        height:80%;
       }
       #shoutInput{
         margin-top:3%;
@@ -73,26 +78,72 @@
       }
       #statusArea{
         position:absolute;
-        left:5%;
-        top:90%;
-        width:90%;
-        height:7%;
+        left:80%;
+        top:170px;
+        width:15%;
+        height:60%;
         border-style:none;
       }
     </style>
   </head>
   <body onload="document.getElementById('shoutInput').focus()">
-    <div id="shout">
-      <form id="hiddenForm" action="./msgsent.php" target="shoutIFrame" method="post">
-        <input id="hiddenMsg" type="hidden" name="msg" />
-      </form>
-      <iframe id="iFrame" name="shoutIFrame" src="./msgsent.php"></iframe>
-      <div id="shoutText" align="center">
-        <input id="shoutInput" type="text" onkeydown="if (event.keyCode == 13) shout()" />
-        <button onclick="shout()">Send</button>
-      </div>
-    </div><!--end of shout div-->
-    <iframe id="statusArea" src="./onlinenow.php">
-    </iframe>
+  		<div id="container">
+			<div id="header">
+				<div>
+					<h1><span></span></h1>
+					<a href="../logout.php" style="font-size:small;float:right"><font color="white">Logout</font></a>
+					<a href="../index.php" class=""><img src="../img/ace1.png" alt="ace logo" /></a>
+					<ul id="mainNav">
+						<li>
+							<a href="../index.php">Home</a>
+						</li>
+						<li>
+							<a href="../events.php">Events</a>
+						</li>
+						<li>
+							<a href="../gallery.php">Gallery</a>
+						</li>
+						<li>
+							<a href="../speakers.php">Speakers</a>
+						</li>
+						<li>
+							<a href="../forum">Forums</a>
+						</li>
+						<li>
+							<a href="../about.php">About</a>
+						</li>
+						<li class="on">
+							<a href="../members.php">Members</a>
+						</li>
+						<li>
+							<a href="../contact.php">Contact</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div id="content" style="height:60%">
+        <div id="shout">
+          <form id="hiddenForm" action="./msgsent.php" target="shoutIFrame" method="post">
+            <input id="hiddenMsg" type="hidden" name="msg" />
+          </form>
+          <iframe id="iFrame" name="shoutIFrame" src="./msgsent.php"></iframe>
+          <div id="shoutText" align="center">
+            <input id="shoutInput" type="text" onkeydown="if (event.keyCode == 13) shout()" />
+            <button onclick="shout()">Send</button>
+          </div>
+        </div><!--end of shout div-->
+        <iframe id="statusArea" src="./onlinenow.php">
+        </iframe>
+      </div> <!-- end of content-->
+      <div id="footer">
+				<div>
+					<p class="left">
+						Copyright 2011
+						<br />
+						Association of Computer Engineers, CMRIT
+					</p>
+				</div>
+			</div><!-- end of footer-->
+    </div> <!-- end of container-->
   </body>
 </html>

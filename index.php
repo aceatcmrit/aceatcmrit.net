@@ -105,23 +105,23 @@
 			    }
 			?>			
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<script src="http://ajax.googleapis.com/ajax/libs/dojo/1.7/dojo/dojo.js" djConfig="parseOnLoad:true"></script>
+		<script src="./js/dojo-js/dojo/dojo.js" djConfig="parseOnLoad:true"></script>
     <script type="text/javascript">
 		  dojo.require("dijit.layout.TabContainer");
       dojo.require("dijit.layout.ContentPane");
       dojo.require('dijit.form.Button');
 
     </script>
-    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/dojo/1.4/dojo/resources/dojo.css"> 
-    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dijit/themes/claro/claro.css"> 
+    <link rel="stylesheet" type="text/css" href="./css/dojo.css" />  
+    <link rel="stylesheet" type="text/css" href="./css/claro.css" />
      
 
     <style type="text/css">
       /* bring in the claro theme */
 
       /* bring in the widget-specific CSS classes */
-      @import "http://ajax.googleapis.com/ajax/libs/dojo/1.5/dijit/themes/claro/layout/ContentPane.css";
-      @import "http://ajax.googleapis.com/ajax/libs/dojo/1.5/dijit/themes/claro/layout/TabContainer.css";
+      @import "./css/ContentPane.css";
+      @import "./css/TabContainer.css";
 
     </style>
 		<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
@@ -146,26 +146,26 @@
 					<div style="padding-left:10%;width:500px">
 					  <table>
 					  <tr>
-					    <td><img <img width="80" height="80" src="./index_files/home.png"></td>
+					    <td width ="30%"><img <img width="70%" height="12%" src="./index_files/home.png"></td>
 					    <td style="padding-left:30px"><a href="home.php"><p class="topic">Home</p></td>
 					  </tr>
 					  <tr>
-					    <td><img width="80" height="80" src="./index_files/fo.jpg"></td>
+					    <td><img width="70%" height="25%" src="./index_files/fo.jpg"></td>
 					     <td style="padding-left:30px"><a href="forum/"><p class="topic">Forum</p></a></td>
 					  </tr>
 					  <tr>
-					    <td><img <img width="80" height="80" src="./index_files/pr.png"></td>
+					    <td><img <img width="70%" height="25%" src="./index_files/pr.png"></td>
 					    <td style="padding-left:30px"><a href="ph.php"><p class="topic">Project hosting</p></td>
 					  </tr>
 					  <tr>
-					    <td><img width="80" height="80" src="./index_files/fi.jpg"></td>
+					    <td><img width="70%" height="12%" src="./index_files/fi.jpg"></td>
 					    <td style="padding-left:30px"><a href="fs/"><p class="topic">File sharing</p></td>
 					  </tr>
 					  </table>
 					</div>
-					<div style="position:absolute;width:400px;height:400px;left:60%;top:30%">
+					<div style="position:absolute;width:400px;height:400px;left:60%;top:200px">
 						<div style="width: 100%; height: 100%">
-							<div id="mainTabContainer" data-dojo-type="dijit.layout.TabContainer" style="width: 100%; height: 100%;">
+							<div id="mainTabContainer" data-dojo-type="dijit.layout.TabContainer" style="width: 75%; height: 80%;">
 								<div data-dojo-type="dijit.layout.ContentPane" title="Login" selected="true" style="padding-top:25%">
 									<form name="form1" method="post" action="">
 									<table align="center">
@@ -178,7 +178,7 @@
 								  </form>
 									
 								</div>
-								<div data-dojo-type="dijit.layout.ContentPane" title="Register" style="padding-top:15%">
+								<div data-dojo-type="dijit.layout.ContentPane" title="Register" style="padding-top:10%">
 									<form name="form2" method="post" action="">
 									<table align="center">
 									  <tr><td>Username</td></tr>

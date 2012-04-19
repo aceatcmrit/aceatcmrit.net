@@ -255,7 +255,7 @@
 	height:15px;
 	width:15px;
 	margin: 0 auto;
-	background:url("../form/images/buttonArrows.png") no-repeat -75px 50%;
+	background:url("./images/buttonArrows.png") no-repeat -75px 50%;
 	background-color: transparent;
 }
 .claro .dijitTabStripSlideRightIcon{

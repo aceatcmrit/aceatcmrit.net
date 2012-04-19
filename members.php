@@ -12,7 +12,6 @@
 		<link href="css/ie.css" rel="stylesheet" type="text/css" />
 		<![endif]-->
 		<title>ACE-Association of Computer Engineers, CSE, CMRIT</title>
-		<script type="text/javascript"></script>
 	</head>
 	<body>
 		<div id="container">
