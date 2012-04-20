@@ -1,0 +1,14 @@
+<div id='footer' align='left' style='position:absolute;top:100%;width:100%' >
+				<div>
+					<p class='left'>
+						Copyright 2011
+						<br />
+						Association of Computer Engineers, CMRIT
+					</p>
+				</div>
+    </div><!--    footer-->
+    </div><!--    content-->
+    </div><!--    container-->
+  </body>
+</html>
+
