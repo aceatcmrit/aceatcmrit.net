@@ -20,7 +20,7 @@ function unau_if_not_logged_in()
   $count=mysql_num_rows($result);
   if($count==0)
     {
-      $URL="/ace/index.php?msg=Please login first"; 
+      $URL="/aceatcmrit.net/index.php?msg=Please login first"; 
       header ("Location: $URL"); 
       return FALSE;
     }
