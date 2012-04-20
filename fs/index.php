@@ -43,7 +43,6 @@
         }
         var lab = document.getElementById('tag'+tagCount);
         lab.value=tagName;
-        doSearch();
        }
        
        function doSearch(){
@@ -135,7 +134,7 @@
       <td align="center" width="40%">
          <div id="selected tags">
           <table width="80%">
-            <form action="./displaydb.php" method="get" id="searchForm">
+            <form action="./results.php" method="get" id="searchForm">
               <tr><td><label>Tag 1:</label></td><td><input style="float:right" type="text" id="tag1" name="tag1" /></td></tr>
               <tr><td><label>Tag 2:</label></td><td><input style="float:right" type="text" id="tag2" name="tag2" /></td></tr>
               <tr><td><label>Tag 3:</label></td><td><input style="float:right" type="text" id="tag3" name="tag3" /></td></tr>
@@ -149,15 +148,12 @@
       
       <td>
         <button style="width:80%" id="searchButton" onclick='doSearch()'><img src="./img/search.png" height="80" width="80"></button><br />
-        <button style="width:80%" id="searchButton" onclick="window.location.replace('./fsui.php');"><img src="./img/reset.png" height="80" width="80"></button>        
+        <button style="width:80%" id="searchButton" onclick="window.location.replace('./index.php');"><img src="./img/reset.png" height="80" width="80"></button>        
       </td>      
       
       </tbody>
     </table>
-    <div>
-						 
-					</div>
-    
+    </div>
    <div id="footer" style="position:absolute;top:100%;width:100%" >
 				<div>
 					<p class="left">
@@ -168,7 +164,6 @@
 				</div>
 	 	</div>
 
-    </div>
     </div> <!--end of container -->
 	</body>
 </html>
