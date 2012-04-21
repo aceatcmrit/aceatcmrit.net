@@ -33,17 +33,16 @@
 					<a href="logout.php" style="font-size:small;float:right"><font color="white">Logout</font></a>
 					<h1><span></span></h1>
 					<a href="index.php" class=""><img src="img/ace1.png" alt="ace logo" /></a>
-
-				<ul id="mainNav">
-					<li><a href="index.php">Home</a></li>
-					<li class="on"><a href="events.php">Events</a></li>
-					<li><a href="gallery.php">Gallery</a></li>
-					<li><a href="speakers.php">Speakers</a></li>
-					<li><a href="forum">Forums</a></li>
-					<li><a href="about.php">About</a></li>
-					<li><a href="members.php">Members</a></li>
-					<li><a href="contact.php">Contact</a></li>
-				</ul>
+				  <ul id="mainNav">
+					  <li><a href="index.php">Home</a></li>
+					  <li><a href="shout">Shout</a></li>
+					  <li><a href="about.php">FileSharing</a></li>
+					  <li><a href="contact.php">Dump</a></li>
+				  </ul>
+				  <ul id="mainNav2">
+					  <li><a href="gallery.php">Gallery</a></li>
+					  <li><a href="speakers.php">Speakers</a></li>
+					</ul>
 			</div>
 		</div>
 		<div id="content">

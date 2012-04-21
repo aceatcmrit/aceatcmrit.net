@@ -35,7 +35,7 @@
 							<a href="speakers.php">Speakers</a>
 						</li>
 						<li>
-							<a href="forum">Forums</a>
+							<a href="shout">Shout</a>
 						</li>
 						<li class="on">
 							<a href="about.php">About</a>

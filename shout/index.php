@@ -98,27 +98,12 @@
 							<a href="../index.php">Home</a>
 						</li>
 						<li>
-							<a href="../events.php">Events</a>
+							<a href="../dump">FileDump</a>
 						</li>
 						<li>
-							<a href="../gallery.php">Gallery</a>
+							<a href="../fs">FileSharing</a>
 						</li>
-						<li>
-							<a href="../speakers.php">Speakers</a>
-						</li>
-						<li>
-							<a href="../forum">Forums</a>
-						</li>
-						<li>
-							<a href="../about.php">About</a>
-						</li>
-						<li class="on">
-							<a href="../members.php">Members</a>
-						</li>
-						<li>
-							<a href="../contact.php">Contact</a>
-						</li>
-					</ul>
+				 </ul>
 				</div>
 			</div>
 			<div id="content" style="height:60%">

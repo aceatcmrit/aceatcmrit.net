@@ -75,6 +75,17 @@
 					<a href="../logout.php" style="font-size:small;float:right"><font color="white">Logout</font></a>				
 					<h1><span></span></h1>
 					<a href="../index.php" class=""><img src="../img/ace1.png" alt="ace logo" /></a>
+					<ul id="mainNav">
+						<li>
+							<a href="../index.php">Home</a>
+						</li>
+						<li>
+							<a href="../shout">Shout</a>
+						</li>
+						<li>
+							<a href="../dump">FileDump</a>
+						</li>
+				 </ul>
 				</div>
 			</div>   <br /> <br />
 			

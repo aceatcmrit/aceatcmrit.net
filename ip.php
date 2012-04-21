@@ -14,7 +14,7 @@ function unau_if_not_logged_in()
 	$tbl_name="details"; // Table name
 	mysql_connect("$host", "$username", "$password")or die("cannot connect");
 	mysql_select_db("$db_name")or die("cannot select DB");
-	$query = "select * from details where ipadd='$ip'";
+	$query = "select * from $tbl_name where ipadd='$ip'";
 	
 	$result=mysql_query($query);
   $count=mysql_num_rows($result);

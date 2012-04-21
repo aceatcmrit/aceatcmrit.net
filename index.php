@@ -146,19 +146,19 @@
 					<div style="padding-left:10%;width:500px">
 					  <table>
 					  <tr>
-					    <td width ="30%"><img <img width="70%" height="12%" src="./index_files/home.png"></td>
-					    <td style="padding-left:30px"><a href="home.php"><p class="topic">Home</p></td>
+					    <td width ="40%"><img <img width="70%" height="12%" src="./index_files/home.png"></td>
+					    <td style="padding-left:30px"><a href="home.php"><p class="topic">Activities</p></td>
 					  </tr>
 					  <tr>
-					    <td><img width="70%" height="25%" src="./index_files/fo.jpg"></td>
-					     <td style="padding-left:30px"><a href="forum/"><p class="topic">Forum</p></a></td>
+					    <td><img width="75%" height="25%" src="./index_files/shout.png"></td>
+					     <td style="padding-left:30px"><a href="shout/"><p class="topic">Shout</p></a></td>
 					  </tr>
 					  <tr>
-					    <td><img <img width="70%" height="25%" src="./index_files/pr.png"></td>
-					    <td style="padding-left:30px"><a href="ph.php"><p class="topic">Project hosting</p></td>
+					    <td><img <img width="75%" height="20%" src="./index_files/pr.jpg"></td>
+					    <td style="padding-left:30px"><a href="dump/"><p class="topic">FileDump</p></td>
 					  </tr>
 					  <tr>
-					    <td><img width="70%" height="12%" src="./index_files/fi.jpg"></td>
+					    <td><img width="75%" height="12%" src="./index_files/fi.jpg"></td>
 					    <td style="padding-left:30px"><a href="fs/"><p class="topic">File sharing</p></td>
 					  </tr>
 					  </table>

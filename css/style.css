@@ -128,7 +128,7 @@ display:inline;
 float:right;
 font-weight:400;
 list-style-type:none;
-margin:120px 0px 20px 0;
+margin:80px 0px 20px 0;
 padding:0;
 }
 
@@ -153,6 +153,44 @@ border:1px transparent #2783ae;
 }
 
 #mainNav .on a {
+background:url(../img/button_bg_hover.png) repeat-x;
+border:1px transparent #2783ae;
+cursor:default;
+}
+
+/* Main Nav2
+----------------------------------------------------------------------------*/
+#mainNav2 {
+color:#fff;
+display:inline;
+float:right;
+font-weight:400;
+list-style-type:none;
+margin:120px -265px 20px 0;
+padding:0;
+}
+
+#mainNav2 li {
+float:left;
+font-size:0.8em;
+padding:0 4px;
+}
+
+#mainNav2 li a {
+background:url(../img/button_bg.png) repeat;
+border:1px transparent #2783ae;
+color:#fff;
+display:block;
+padding:5px;
+text-decoration:none;
+}
+
+#mainNav2 li a:hover,a.active {
+background:url(../img/button_bg_hover.png) repeat-x;
+border:12px transparent #2783ae;
+}
+
+#mainNav2 .on a {
 background:url(../img/button_bg_hover.png) repeat-x;
 border:1px transparent #2783ae;
 cursor:default;
